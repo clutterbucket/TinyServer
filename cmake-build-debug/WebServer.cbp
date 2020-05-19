@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="WebServer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.MU52yRD7i9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.MU52yRD7i9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WebServer">
+				<Option output="/tmp/tmp.MU52yRD7i9/cmake-build-debug/WebServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.MU52yRD7i9/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 WebServer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WebServer/fast">
+				<Option output="/tmp/tmp.MU52yRD7i9/cmake-build-debug/WebServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.MU52yRD7i9/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 WebServer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.MU52yRD7i9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.MU52yRD7i9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/AsyncLogging.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/AsyncLogging.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Buffer.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Channel.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Channel.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/EventLoop.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/EventLoop.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/FileUtil.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/FileUtil.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/HttpRequest.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/LogFile.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/LogFile.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Logging.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Logging.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Mutex.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/TaskQueue.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/TaskQueue.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/TcpConnection.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/TcpConnection.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/TcpServer.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/TcpServer.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Thread.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Thread.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Timer.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Timer.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/TimerQueue.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/TimerQueue.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Util.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/Util.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/main.cpp">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/noncopyable.h">
+			<Option target="WebServer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.MU52yRD7i9/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
